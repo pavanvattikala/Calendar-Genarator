@@ -7,7 +7,7 @@ Calender Generator is a basic project which was build in C Programming Language 
 
 ## *How to get started*
 1. Build and run the Calender-Genarator Project
-2. Enter you desired year in the console
+2. Enter your desired year in the console
 3. Click enter
 
 ## *Features*
