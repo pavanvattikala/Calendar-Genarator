@@ -2,8 +2,13 @@
 Calender Generator is a basic project which was build in C Programming Language which generates the complete calender of the given year
 
 ## *How to run the project*
+### *Method-1*
 1. Select any C compiler(Either offline or online)
 2. Copy the source code and run through your selected compiler
+### *Method-2*
+1. Download the .exe file from the repositary
+2. The downladed file shows erore, Right Click  and enter "keep" option
+3. Later Click "Run Anyway" 
 
 ## *How to get started*
 1. Build and run the Calender-Genarator Project
